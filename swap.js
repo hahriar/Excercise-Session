@@ -1,4 +1,3 @@
-
 /* ------------------------------------------------------------------------------------------------------------ */
 
 //problem 1 
@@ -101,7 +100,7 @@ console.log(cost);
 
 
 // perfect friend
-// task-04
+
 function perfectFriend(FriendNames) {
     // check this array or not!!!
 
